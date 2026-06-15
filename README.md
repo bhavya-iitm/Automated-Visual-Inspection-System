@@ -53,7 +53,7 @@ screenshots/        → Project screenshots and outputs
 
 ### ROI Detection Output
 
-![ROI Output](screenshots/output1.png)
+![ROI Output](screenshots/output1.jpeg)
 
 ### Defect Detection Result
 
